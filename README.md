@@ -8,4 +8,4 @@ Siren Simulator, By CaydeBuddy And Gemini
 
 
 
-# SirenSim is Discontinued, You May Never See And Update Again. I Might Do More Projects In The Future, I Am Currently Working On "Lua"
+# SirenSim is Discontinued, You May Never See Another Update Again. I Might Do More Projects In The Future, I Am Currently Working On "Lua"
