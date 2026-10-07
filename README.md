@@ -10,3 +10,7 @@ Siren Simulator, By CaydeBuddy And Gemini
 ### When We Upgrade More, We Will Create a .DMG
 
 All The Source Code Can Be Found Here: https://www.mediafire.com/folder/jvp6gl78f5pol/Siren_Simulator
+
+If You use The Source Code To Make SirenSimulator.exe Remember To leave The Creator "Caydebuddy"
+
+© 2026 CaydeBuddy Games
