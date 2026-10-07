@@ -4,8 +4,5 @@ Siren Simulator, By CaydeBuddy And Gemini
 | :--- | :--- |
 | Its Awesome, | REALLY. |
 
-
-
-
-
-# SirenSim is Discontinued, You May Never See Another Update Again. I Might Do More Projects In The Future, I Am Currently Working On "Lua"
+# SIREN SIM IS BACK!!
+## And v1.0.5.Recommended.2 Is DONE!
